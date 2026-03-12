@@ -1,10 +1,9 @@
 # Credit Default Risk Prediction
-PET PROJECT: Development of the model for evaluation the debtor to decrease the NPL.
 
 Цель данного проекта: разработка модели машинного обучения для оценки кредитоспособности заёмщиков с целью снижения доли невозвратных кредитов NPL.
 
 # Данные:
-Название датасета: Credit Card customer
+Название датасета: Credit Card customers
 
 Ссылка (Kaggle): [Датасет](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
