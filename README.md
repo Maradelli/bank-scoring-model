@@ -1,5 +1,5 @@
 # Credit Default Risk Prediction
-PET PROJECT: Development the model for evaluation of the debtor to decrease the NPL.
+PET PROJECT: Development of the model for evaluation the debtor to decrease the NPL.
 
 Цель данного проекта: разработка модели машинного обучения для оценки кредитоспособности заёмщиков с целью снижения доли невозвратных кредитов NPL.
 
